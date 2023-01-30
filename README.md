@@ -21,3 +21,6 @@ Star and/or bookmark this page so you can find it later.  Then browse the folder
 - I'm using RealisticVision, but use whatever works as long as the resulting montage gives a good idea of what the prompt adds
 - Try to be generic in your prompt tokens that are not the wildcard so it can add the most to the image.
 - If you get an error about files not found, rename any generated images with apostrophes or quotation marks in them and run it again.
+
+## Wait.  That doesn't look like...
+Yeah.  There's thousands of these and some may not look right.  I'm favoring getting more up for now, with the intent of coming back around to fix the ones that are just wrong.  Also, I just don't know what some things are supposed to look like, so I'll miss a few.  However, I keep all the base images so if you see one that looks wrong, [open an issue](./issues/new) and be sure to tell me which item is wrong (like "") and if you have an example of what it should look like or a better prompt, just let me know.  Alternatively, you can recreate that sheet if you like and [submit a PR](./compare) for it.  I'll try to get to fixes and PRs as soon as I can.
