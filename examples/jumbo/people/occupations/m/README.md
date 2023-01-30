@@ -1,0 +1,100 @@
+# Jumbo / People / Occupations / M
+
+![Jumbo / People / Occupations / M Stable Diffusion prompt examples](montage.png 'Jumbo / People / Occupations / M Stable Diffusion prompt examples')
+
+# Prompts used
+- machine feeder
+- machinist
+- magistrate
+- magistrate judge
+- maid
+- mail clerk
+- mail machine operator
+- mail superintendent
+- maintenance painter
+- maintenance worker
+- makeup artist
+- management analyst
+- manicurist
+- manufactured building installer
+- mapping technician
+- marble setter
+- marine engineer
+- marine oiler
+- market research analyst
+- marketing manager
+- marketing specialist
+- marriage therapist
+- massage therapist
+- material mover
+- materials engineer
+- materials scientist
+- mathematical science teacher
+- mathematical technician
+- mathematician
+- maxillofacial surgeon
+- measurer
+- meat cutter
+- meat packer
+- meat trimmer
+- mechanical door repairer
+- mechanical drafter
+- mechanical engineer
+- mechanical engineering technician
+- mediator
+- medical appliance technician
+- medical assistant
+- medical equipment preparer
+- medical equipment repairer
+- medical laboratory technician
+- medical laboratory technologist
+- medical records technician
+- medical scientist
+- medical secretary
+- medical services manager
+- medical transcriptionist
+- meeting planner
+- mental health counselor
+- mental health social worker
+- merchandise displayer
+- messenger
+- metal caster
+- metal patternmaker
+- metal pickling operator
+- metal pourer
+- metal worker
+- metal-refining furnace operator
+- metal-refining furnace tender
+- meter reader
+- microbiologist
+- middle school teacher
+- milling machine setter
+- millwright
+- mine cutting machine operator
+- mine shuttle car operator
+- mining engineer
+- mining safety engineer
+- mining safety inspector
+- mining service unit operator
+- mixing machine setter
+- mobile heavy equipment mechanic
+- mobile home installer
+- model
+- model maker
+- molder
+- mortician
+- motel desk clerk
+- motion picture projectionist
+- motorboat mechanic
+- motorboat operator
+- motorboat service technician
+- motorcycle mechanic
+- movers
+- multimedia artist
+- museum technician
+- music director
+- music teacher
+- musical instrument repairer
+- musician
+
+

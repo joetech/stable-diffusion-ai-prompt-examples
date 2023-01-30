@@ -1,0 +1,108 @@
+# Jumbo / People / Occupations / P
+
+![Jumbo / People / Occupations / P Stable Diffusion prompt examples](montage.png 'Jumbo / People / Occupations / P Stable Diffusion prompt examples')
+
+# Prompts used
+- packaging machine operator
+- painter
+- painting worker
+- paper goods machine setter
+- paperhanger
+- paralegal
+- paramedic
+- parking enforcement worker
+- parking lot attendant
+- parts salesperson
+- paving equipment operator
+- payroll clerk
+- pediatrician
+- pedicurist
+- personal care aide
+- personal chef
+- personal financial advisor
+- personal trainer
+- pest control worker
+- pesticide applicator
+- pesticide handler
+- pesticide sprayer
+- petroleum engineer
+- petroleum gauger
+- petroleum pump system operator
+- petroleum refinery operator
+- petroleum technician
+- pharmacist
+- pharmacy aide
+- pharmacy technician
+- philosophy teacher
+- photogrammetrist
+- photographer
+- photographic process worker
+- photographic processing machine operator
+- physical therapist
+- physical therapist aide
+- physical therapist assistant
+- physician
+- physician assistant
+- physicist
+- physics teacher
+- pile-driver operator
+- pipefitter
+- pipelayer
+- planing machine operator
+- planning clerk
+- plant operator
+- plant scientist
+- plasterer
+- plastic patternmaker
+- plastic worker
+- plumber
+- podiatrist
+- police dispatcher
+- police officer
+- policy processing clerk
+- political science teacher
+- political scientist
+- postal service clerk
+- postal service mail carrier
+- postal service mail processing machine operator
+- postal service mail processor
+- postal service mail sorter
+- postmaster
+- postsecondary teacher
+- poultry cutter
+- poultry trimmer
+- power dispatcher
+- power distributor
+- power plant operator
+- power tool repairer
+- precious stone worker
+- precision instrument repairer
+- prepress technician
+- preschool teacher
+- priest
+- print binding worker
+- printing press operator
+- private detective
+- probation officer
+- procurement clerk
+- producer
+- product manager
+- product promoter
+- production clerk
+- production occupation
+- proofreader
+- property manager
+- prosthetist
+- prosthodontist
+- psychiatric aide
+- psychiatric technician
+- psychiatrist
+- psychologist
+- psychology teacher
+- public relations manager
+- public relations specialist
+- pump operator
+- purchasing agent
+- purchasing manager
+
+

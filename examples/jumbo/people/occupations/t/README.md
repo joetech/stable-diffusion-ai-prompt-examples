@@ -1,0 +1,78 @@
+# Jumbo / People / Occupations / T
+
+![Jumbo / People / Occupations / T Stable Diffusion prompt examples](montage.png 'Jumbo / People / Occupations / T Stable Diffusion prompt examples')
+
+# Prompts used
+- tailor
+- tamping equipment operator
+- tank car loader
+- taper
+- tax collector
+- tax examiner
+- tax preparer
+- taxi driver
+- teacher
+- teacher assistant
+- team assembler
+- technical writer
+- telecommunications equipment installer
+- telemarketer
+- telephone operator
+- television announcer
+- teller
+- terrazzo finisher
+- terrazzo worker
+- tester
+- textile bleaching operator
+- textile cutting machine setter
+- textile knitting machine setter
+- textile presser
+- textile worker
+- therapist
+- ticket agent
+- ticket taker
+- tile setter
+- timekeeping clerk
+- timing device assembler
+- tire builder
+- tire changer
+- tire repairer
+- title abstractor
+- title examiner
+- title searcher
+- tobacco roasting machine operator
+- tool filer
+- tool grinder
+- tool maker
+- tool sharpener
+- tour guide
+- tower equipment installer
+- tower operator
+- track switch repairer
+- tractor operator
+- tractor-trailer truck driver
+- traffic clerk
+- traffic technician
+- training and development manager
+- training and development specialist
+- transit police
+- translator
+- transportation equipment painter
+- transportation inspector
+- transportation security screener
+- transportation worker
+- trapper
+- travel agent
+- travel clerk
+- travel guide
+- tree pruner
+- tree trimmer
+- trimmer
+- truck loader
+- truck mechanic
+- tuner
+- turning machine tool operator
+- tutor
+- typist
+
+
