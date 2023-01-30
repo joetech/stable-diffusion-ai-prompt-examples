@@ -1,0 +1,87 @@
+# Jumbo / Items / Materials / Fabrics / N through Z
+
+![Jumbo / Items / Materials / Fabrics / N through Z Stable Diffusion prompt examples](montage.png 'Jumbo / Items / Materials / Fabrics / N through Z Stable Diffusion prompt examples')
+
+# Prompts used
+- nainsook
+- nankeen
+- needlerun net
+- ninon
+- nylon
+- oilskin
+- olefin
+- organdy
+- organza
+- osnaburg
+- ottoman
+- oxford
+- paduasoy
+- paisley
+- pashmina
+- percale
+- pin stripes
+- piña
+- plush
+- polar fleece
+- polyester
+- pongee
+- poplin
+- rakematiz
+- ramie
+- rayadillo
+- rayon
+- rep
+- rinzu
+- ripstop
+- russell cord
+- saga nishiki
+- samite
+- sateen
+- satin
+- saye
+- scarlet
+- scrim
+- sea silk
+- seersucker
+- serge
+- shot silk
+- shweshwe
+- silk
+- silnylon
+- sisal
+- songket
+- spandex
+- spider silk
+- stub-tex
+- stuff
+- sympatex
+- taffeta
+- tais
+- tartan
+- tattersall
+- terrycloth
+- toile
+- tucuyo
+- tulle
+- tweed
+- twill
+- ultrasuede
+- vegetable flannel
+- velour
+- velours du kasaï
+- velvet
+- velveteen
+- ventile
+- vinyl coated polyester
+- viyella
+- voile
+- wadmal
+- whipcord
+- wigan
+- windstopper
+- wool
+- zephyr
+- zibeline
+- zorbeez
+
+

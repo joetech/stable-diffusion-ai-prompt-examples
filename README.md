@@ -20,3 +20,4 @@ Star and/or bookmark this page so you can find it later.  Then browse the folder
 - 512 x 512 should be fine, since they all get shrunk down anyway
 - I'm using RealisticVision, but use whatever works as long as the resulting montage gives a good idea of what the prompt adds
 - Try to be generic in your prompt tokens that are not the wildcard so it can add the most to the image.
+- If you get an error about files not found, rename any generated images with apostrophes or quotation marks in them and run it again.

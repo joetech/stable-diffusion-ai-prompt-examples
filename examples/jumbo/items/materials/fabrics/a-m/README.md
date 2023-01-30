@@ -1,0 +1,133 @@
+# Jumbo / Items / Materials / Fabrics / A through M
+
+![Jumbo / Items / Materials / Fabrics / A through M Stable Diffusion prompt examples](montage.png 'Jumbo / Items / Materials / Fabrics / A through M Stable Diffusion prompt examples')
+
+# Prompts used
+- acrylic
+- aertex
+- airdura
+- airguard
+- alpaca
+- angora
+- argyle
+- baize
+- ballistic nylon
+- ban-lon
+- barathea
+- barkcloth
+- batiste
+- bedford cord
+- bengaline silk
+- beta cloth
+- bizarre silk
+- bobbinet
+- boiled wool
+- bombazine
+- brilliantine
+- broadcloth
+- brocade
+- buckram
+- bunting
+- burlap
+- c change
+- calico
+- cambric
+- camlet
+- canvas
+- capilene
+- carbon fiber
+- cashmere
+- cedar bark
+- challis
+- chambray
+- char cloth
+- charmeuse
+- charvet
+- cheesecloth
+- chenille
+- chiffon
+- chino
+- chintz
+- chiné
+- cloqué
+- cloth of gold
+- coir
+- conductive
+- coolmax
+- cordura
+- corduroy
+- cotton
+- coutil
+- crape
+- cretonne
+- crimplene
+- crêpe
+- damask
+- darlexx
+- dazzle
+- denim
+- dimity
+- donegal tweed
+- dornix
+- dowlas
+- drill
+- drugget
+- duck
+- e-textiles
+- eolienne
+- felt
+- fishnet
+- flannel
+- foulard
+- fustian
+- gabardine
+- gannex
+- gauze
+- gazar
+- georgette
+- ghalamkar
+- gingham
+- gore-tex
+- grenadine
+- grenfell cloth
+- grosgrain
+- habutai
+- haircloth
+- harris tweed
+- hemp
+- herringbone
+- himroo
+- hodden
+- houndstooth
+- irish linen
+- jamdani
+- jersey
+- jute
+- kente cloth
+- kerseymere
+- kevlar
+- khaki drill
+- khādī
+- lace
+- lampas
+- lamé
+- lawn
+- linen
+- linsey-woolsey
+- loden
+- longcloth
+- lumalive
+- machine knitting
+- mackinaw
+- madapolam
+- madras
+- mesh
+- microfiber
+- milliskin
+- mockado
+- mohair
+- moleskin
+- moquette
+- muslin
+
+
