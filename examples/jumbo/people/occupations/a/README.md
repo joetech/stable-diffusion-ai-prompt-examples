@@ -1,0 +1,79 @@
+# Jumbo / People / Occupations / A
+
+![Jumbo / People / Occupations / A Stable Diffusion prompt examples](montage.png 'Jumbo / People / Occupations / A Stable Diffusion prompt examples')
+
+# Prompts used
+- ATM machine repairer
+- DJ
+- UX designer
+- accountant
+- actor
+- actuary
+- adhesive bonding machine tender
+- adjudicator
+- administrative assistant
+- administrative services manager
+- adult education teacher
+- advertising manager
+- advertising sales agent
+- aerobics instructor
+- aerospace engineer
+- aerospace engineering technician
+- agent
+- agricultural engineer
+- agricultural equipment operator
+- agricultural grader
+- agricultural inspector
+- agricultural manager
+- agricultural sciences teacher
+- agricultural sorter
+- agricultural technician
+- agricultural worker
+- air conditioning installer
+- air conditioning mechanic
+- air traffic controller
+- aircraft cargo handling supervisor
+- aircraft mechanic
+- aircraft service technician
+- airline copilot
+- airline pilot
+- ambulance dispatcher
+- ambulance driver
+- amusement machine servicer
+- anesthesiologist
+- animal breeder
+- animal control worker
+- animal scientist
+- animal trainer
+- animator
+- answering service operator
+- anthropologist
+- apparel patternmaker
+- apparel worker
+- arbitrator
+- archeologist
+- architect
+- architectural drafter
+- architectural manager
+- archivist
+- art director
+- art teacher
+- artist
+- assembler
+- astronomer
+- athlete
+- athletic trainer
+- atmospheric scientist
+- attendant
+- audio and video equipment technician
+- audio-visual and multimedia collections specialist
+- audiologist
+- auditor
+- author
+- auto damage insurance appraiser
+- automotive and watercraft service attendant
+- automotive glass installer
+- automotive mechanic
+- avionics technician
+
+
