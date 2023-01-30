@@ -1,0 +1,76 @@
+# Jumbo / People / Occupations / F
+
+![Jumbo / People / Occupations / F Stable Diffusion prompt examples](montage.png 'Jumbo / People / Occupations / F Stable Diffusion prompt examples')
+
+# Prompts used
+- fabric mender
+- fabric patternmaker
+- fabricator
+- faller
+- family practitioner
+- family social worker
+- family therapist
+- farm advisor
+- farm equipment mechanic
+- farm labor contractor
+- farmer
+- farmworker
+- fashion designer
+- fast food cook
+- fence erector
+- fiberglass fabricator
+- fiberglass laminator
+- file clerk
+- filling machine operator
+- film and video editor
+- financial analyst
+- financial examiner
+- financial manager
+- financial services sales agent
+- fine artist
+- fire alarm system installer
+- fire dispatcher
+- fire inspector
+- fire investigator
+- firefighter
+- fish and game warden
+- fish cutter
+- fish trimmer
+- fisher
+- fitness studies teacher
+- fitness trainer
+- flight attendant
+- floor finisher
+- floor layer
+- floor sander
+- floral designer
+- food batchmaker
+- food cooking machine operator
+- food preparation worker
+- food science technician
+- food scientist
+- food server
+- food service manager
+- food technologist
+- foreign language teacher
+- foreign literature teacher
+- forensic science technician
+- forest fire inspector
+- forest fire prevention specialist
+- forest worker
+- forester
+- forestry teacher
+- forging machine setter
+- foundry coremaker
+- freight agent
+- freight mover
+- front-end developer
+- fundraising manager
+- funeral attendant
+- funeral director
+- funeral service manager
+- furnace operator
+- furnishings worker
+- furniture finisher
+
+
