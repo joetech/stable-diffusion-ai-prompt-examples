@@ -17,7 +17,7 @@ columns=$5
 pageTitle=$6
 
 # In case you run it twice, remove montage.png first
-rm $imageDir/montage.png
+rm $imageDir/montage.png $imageDir/README.md
 
 # Loop through the files to create the command to run
 filenames=''
