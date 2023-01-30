@@ -8,7 +8,10 @@ Star and/or bookmark this page so you can find it later.  Then browse the folder
 
 ## How to contribute
 1. Fork this repository
-2. Generate examples using the format below (or close to it)
+2. Generate examples using the format below (or close to it) and move them to their own directory
+3. Create a folder in the appropriate place in this repository
+4. Run the script following the examples in the script to create a montage and README for the example set
+5. Copy the `montage.png` and `README.md` into the new folder, commit, and open a pull request to have your example added.
 
 ![Settings top half](images/settings1.png "Settings Top Half")
 ![Settings bottom half](images/settings2.png "Settings Bottom Half")
