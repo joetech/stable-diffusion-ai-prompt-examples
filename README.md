@@ -15,3 +15,8 @@ Star and/or bookmark this page so you can find it later.  Then browse the folder
 
 ![Settings top half](images/settings1.png "Settings Top Half")
 ![Settings bottom half](images/settings2.png "Settings Bottom Half")
+
+## Tips
+- 512 x 512 should be fine, since they all get shrunk down anyway
+- I'm using RealisticVision, but use whatever works as long as the resulting montage gives a good idea of what the prompt adds
+- Try to be generic in your prompt tokens that are not the wildcard so it can add the most to the image.
