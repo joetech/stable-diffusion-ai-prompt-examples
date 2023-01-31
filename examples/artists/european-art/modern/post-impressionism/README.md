@@ -1,0 +1,169 @@
+# Artists / European Art / Modern / Post Impressionism
+
+![Artists / European Art / Modern / Post Impressionism Stable Diffusion prompt examples](montage.png 'Artists / European Art / Modern / Post Impressionism Stable Diffusion prompt examples')
+
+# Prompts used
+- Abel Lauvray
+- Abram Molarsky
+- Adrien Bas
+- Albert André
+- Albert Dubois-Pillet
+- Albert Malet
+- Aleksander Żyw
+- Alexandru Bogdan-Pitești
+- Alfred Swieykowski
+- Alfred William Finch
+- André Hallet
+- Anna Boch
+- Anthony Eyton
+- Antun Motika
+- Arthur Sachs
+- Augustus John
+- Birger Sandzén
+- Cesáreo Bernaldo de Quirós
+- Charles Angrand
+- Charles Cottet
+- Charles Laval
+- Charles Prendergast
+- Charles Reiffel
+- Cleo
+- Constant Detré
+- Diane Esmond
+- Eduardo Viana
+- Eero Snellman
+- Emilio Caraffa
+- Emily Carr
+- Ernest Jean-Marie Millard de Bois Durand
+- Ethel Carrick
+- Eugenio Da Venezia
+- Eugène Chigot
+- Fernando Fader
+- Folke Heybroek
+- Francesc dA. Planas Doria
+- Frank Bramley
+- Frank C. Penfold
+- François Mathieu
+- Fritz Friedrichs
+- Gaston La Touche
+- George Morren
+- Georges Dufrénoy
+- Georges Lemmen
+- Georges Seurat
+- Grace Cossington Smith
+- Gustave Loiseau
+- Harry Lachman
+- Heidrun Huwyler
+- Helen Stewart
+- Henri Delavallée
+- Henri Le Sidaner
+- Henri Lebasque
+- Henri Matisse
+- Henri Ottmann
+- Henri Rivière
+- Henri Rousseau
+- Henri de Toulouse-Lautrec
+- Henri-Edmond Cross
+- Henri-Jean Guillaume Martin
+- Henriette Tirman
+- Henry Lamb
+- Hippolyte Petitjean
+- Huib Luns
+- Igor Grabar
+- Ion Theodorescu-Sion
+- Isidre Nonell
+- James Michalopoulos
+- Jan Autengruber
+- Jan Cornelis Hofman
+- Jan Toorop
+- Jean Marchand
+- Jean Metzinger
+- Jeanne Pelisson-Mallet
+- John Foulger
+- Jules-Alexandre Grün
+- Jules-Émile Zingg
+- Julius von Ehren
+- Juti Ravenna
+- József Rippl-Rónai
+- Jāzeps Grosvalds
+- Ker-Xavier Roussel
+- Konstantin Gorbatov
+- Lajos Jámbor
+- Lascăr Vorel
+- Leo Gestel
+- Louis Dewis
+- Louis Hayet
+- Louis Vivin
+- Lucien Biva
+- Lucien Pissarro
+- László Dombrovszky
+- Léon Pourtau
+- Léon Printemps
+- Madeleine Caudel
+- Manuel Jardim
+- Marcel Janco
+- Marin Georgescu
+- Mario Puccini
+- Marius Borgeaud
+- Martín Malharro
+- Maurice Asselin
+- Maurice Denis
+- Maurice Prendergast
+- Maximilien Luce
+- Michael Matusevitch
+- Mikhail Vrubel
+- Miloš Jiránek
+- Miroslav Kraljević
+- Mogens Ballin
+- Muhittin Sebati
+- Nico Klopp
+- Nicolae Tonitza
+- Nikolaos Dragoumis
+- Odilon Redon
+- Oskar Herman
+- Otto Weber
+- Paul Cézanne
+- Paul Gauguin
+- Paul Madeline
+- Paul Ranson
+- Paul Signac
+- Paul Sérusier
+- Paule Gobillard
+- Petre Hârtopeanu
+- Pierre Bonnard
+- Pío Collivadino
+- Qiu Ti
+- Ramón Silva
+- René Auberjonois
+- René Coucke
+- René Schützenberger
+- Richard Maguet
+- Richard Ranft
+- Robert Antoine Pinchon
+- Robert Falk
+- Sacha Moldovan
+- Santiago Rusiñol
+- Sonia Lewitska
+- Sosthène Weis
+- Stanley Royle
+- Suzanne Eisendieck
+- Thomas William Marshall
+- Théo van Rysselberghe
+- Victor Borisov-Musatov
+- Vincent van Gogh
+- Vladimir Becić
+- Vlaho Bukovac
+- Wacław Zawadowski
+- Wilhelmina Weber Furlong
+- Wyndham Lewis
+- Włodzimierz Zakrzewski
+- Yvonne Canu
+- Édouard Vuillard
+- Élisabeth Chaplin
+- Émile Bernard
+- Émile Jourdan
+- Émile Schuffenecker
+- Émilie Charmy
+- Ștefan Dimitrescu
+- Ștefan Luchian
+
+
