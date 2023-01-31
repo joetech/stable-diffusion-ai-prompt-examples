@@ -1,0 +1,205 @@
+# Artists / European Art / Modern / Impressionism / American Impressionist Painters
+
+![Artists / European Art / Modern / Impressionism / American Impressionist Painters Stable Diffusion prompt examples](montage.png 'Artists / European Art / Modern / Impressionism / American Impressionist Painters Stable Diffusion prompt examples')
+
+# Prompts used
+- Abby Williams Hill
+- Abram Molarsky
+- Adele Williams
+- Agnes Millen Richmond
+- Albert Clinton Conner
+- Albert Henry Krehbiel
+- Alphonse Maureau
+- Alson S. Clark
+- André Gisson
+- Anita Miller Smith
+- Anita Willets-Burnham
+- Anna Althea Hills
+- Anna Huntington Stanley
+- Anni von Westrum Baldaugh
+- Annie Traquair Lang
+- Arlington Nelson Lindenmuth
+- Armin Hansen
+- Arthur Hill Gilbert
+- Arthur Prince Spear
+- August Gay
+- Augustus Dunbier
+- Baum Circle
+- Brendan OConnell
+- Carl Eytel
+- Carl Graf
+- Carl Hoppe
+- Carl Thorp
+- Catherine Wiley
+- Charles Arthur Fries
+- Charles Fremont Conner
+- Charles Harold Davis
+- Childe Hassam
+- Christian von Schneidau
+- Clark Voorhees
+- Clifton Wheeler
+- Colin Campbell Cooper
+- Daniel Garber
+- Dennis Miller Bunker
+- Dorothy Morlan
+- Dulah Marie Evans
+- E. Charlton Fortune
+- Edith Mitchill Prellwitz
+- Edmund C. Tarbell
+- Edmund Greacen
+- Edward Charles Volkert
+- Edward Dufner
+- Edward Francis Rook
+- Edward Henry Potthast
+- Edward L. Loper Sr
+- Edward Simmons
+- Edward Willis Redfield
+- Effie Anderson Smith
+- Eleanor Norcross
+- Elizabeth Charleston
+- Elizabeth Horman
+- Elmer Wachtel
+- Emil Bisttram
+- Emil Carlsen
+- Emile Gruppe
+- Emma B. King
+- Emma Mendenhall
+- Ernest Lawson
+- Esther Rose
+- Ethel Blanchard Collver
+- Ettore DeGrazia
+- Eugene Paul Ullman
+- Everett Warner
+- Felix F. de Crano
+- Fern Coppedge
+- Francis Focer Brown
+- Francisco Oller
+- Frank Cuprien
+- Frank DuMond
+- Frank Harmon Myers
+- Frank J. Girardin
+- Frank Nuderscher
+- Fred Wagner
+- Frederick Carl Frieseke
+- George Gallo
+- George Gardner Symons
+- George Herbert Baker
+- George Loftus Noyes
+- George Newell Bowers
+- George Wharton Edwards
+- Granville Redmond
+- Guy Rose
+- Harry Hoffman
+- Hayley Lever
+- Helen Turner
+- Helene Hibben
+- Henry B. Snell
+- Henry Mortikar Rosenberg
+- Henry Prellwitz
+- Henry Salem Hubbell
+- Herman Rose
+- Ira J. Deen
+- Irving Ramsey Wiles
+- J. Alden Weir
+- J. Ottis Adams
+- Jack Coggins
+- James Abbott McNeill Whistler
+- James Carroll Beckwith
+- Jane Peterson
+- Jennie V. Cannon
+- Jessie Arms Botke
+- Johann Berthelsen
+- John E. Berninger
+- John Elwood Bundy
+- John F. Carlson
+- John Francis Murphy
+- John Fulton Folinsbee
+- John Joseph Enneking
+- John Leslie Breck
+- John Willard Raught
+- Joseph DeCamp
+- Joseph Kleitsch
+- Joseph Raphael
+- Joseph Thurman Pearson Jr
+- Julian Onderdonk
+- Karl Buesgen
+- Kate Freeman Clark
+- Kathryn E. Cherry
+- Lars Jonson Haukaness
+- Lawrence Harris
+- Lawton S. Parker
+- Leonard Ochtman
+- Lewis Henry Meakin
+- Lilla Cabot Perry
+- Lindsay Dawson
+- Louis Ritman
+- Lucy Bacon
+- Lucy Hayward Barker
+- M. Evelyn McCormick
+- Marian T. MacIntosh
+- Marilyn Bendell
+- Marion Wachtel
+- Martha Walter
+- Martinus Andersen
+- Mary Bradish Titcomb
+- Mary Cassatt
+- Mary Curtis Richardson
+- Mary Elizabeth Price
+- Mary Perkins Taylor
+- Mathias Alten
+- Matilda Auchincloss Brownell
+- Matilda Browne
+- Maurice Braun
+- Mārtiņš Krūmiņš
+- Nate Dunn
+- Orlando Gray Wales
+- Otto Stark
+- Paul Dougherty
+- Paul R. Schumann
+- Paul Sawyier
+- Paulette Van Roekens
+- Peter Alfred Gross
+- Philip Leslie Hale
+- Porfirio Salinas
+- Reynolds Beal
+- Richard E. Miller
+- Richard Gruelle
+- Richard H. Bassett
+- Rita Asfour
+- Robert B. Sherman
+- Robert Malcolm Rucker
+- Robert Marshall Root
+- Robert Philipp
+- Robert Reid
+- Robert Vonnoh
+- Roger Wilson Dennis
+- Rowena Meeks Abdy
+- Roy Cleveland Nuse
+- Samuel Burtis Baker
+- Simon Baus
+- Stokely Webster
+- Sueo Serisawa
+- Svend Rasmussen Svendsen
+- T. C. Steele
+- Theodore Earl Butler
+- Theodore Robinson
+- Thomas Darnell
+- Thomas Dewing
+- Thomas Lorraine Hunt
+- Thomas P. Barnett
+- Walter Emerson Baum
+- Walter Hixon Isnogle
+- Warren Eugene Brandon
+- Wilhelmina Weber Furlong
+- Willard Metcalf
+- William Chadwick
+- William Forsyth
+- William H. Clapp
+- William Langson Lathrop
+- William McGregor Paxton
+- William Merritt Chase
+- William Moise
+- William Starkweather
+- Wilson Irvine
+
+
