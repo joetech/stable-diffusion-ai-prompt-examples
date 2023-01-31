@@ -1,0 +1,188 @@
+# Artists / European Art / Modern / Hagenbund
+
+![Artists / European Art / Modern / Hagenbund Stable Diffusion prompt examples](montage.png 'Artists / European Art / Modern / Hagenbund Stable Diffusion prompt examples')
+
+# Prompts used
+- Adolf Gross
+- Adolf Lunt
+- Albert Reuss
+- Alexander Demetrius Goltz
+- Alfons Purtscher
+- Alfred Cossmann
+- Alfred Keller
+- Alfred Loeb
+- Alfred Wesemann
+- Alfred Zoff
+- Alois Leopold Seibold
+- Anders Zorn
+- Anna Lesznai
+- Anny Schröder-Ehrenfest
+- Anton Bleichsteiner
+- Anton Peschka
+- Artur Oscar Alexander
+- August Hoffmann von Vestenhof
+- Augustin Roth
+- Bettina Ehrlich
+- Bohumír Jaroněk
+- Béni Ferenczy
+- Carl Fahringer
+- Carl Olof Larsson
+- Carry Hauser
+- Clemens von Pausinger
+- Eduard Amseder
+- Eduard Gaertner
+- Eduard Kasparides
+- Eduard Thöny
+- Elsa Kalmár von Köveshazi
+- Emanuel Franz Hegenbarth
+- Emerich Schaffran
+- Emil Strecker
+- Ernst Paar
+- Ernst Paye
+- Ernst Wagner
+- Erwin Lang
+- Eugen Sturm-Skrla
+- Extraordinary Members
+- Felix Albrecht Hart
+- Ferdinand Dorsch
+- Ferdinand Ludwig Graf
+- Ferdinand Michl
+- Ferdinand Schirnböck
+- Ferdinand Staeger
+- Ferdinand Stransky
+- Ferdinand von Rezniček
+- Franz Barwig
+- Franz Lerch
+- Franz Polzer
+- Franz Thiele
+- Franziska Zach
+- Frieda Salvendy
+- Friedrich Aduatz
+- Friedrich von Knapitsch
+- Friedrich von Radler
+- Fritz Berthold Neuhaus
+- Fritz Gross
+- Fritz Hegenbart
+- Fritz Schwarz-Waldegg
+- Georg Ehrlich
+- Georg Jung
+- Georg Mayer-Marton
+- Georg Merkel
+- Georg Pevetz
+- Georg Philipp Wörlen
+- Gino Parin
+- Gottfried Richter
+- Gotthardt Kuehl
+- Gustav Bamberger
+- Gustav Gurschner
+- Hans Bren
+- Hans Hloucal
+- Hans Letz
+- Hans Ranzoni der Ältere
+- Hans Sidonius Becker
+- Hans Wilt
+- Hans von Hayek
+- Heinrich Lefler
+- Heinrich Revy
+- Heinrich Tomec
+- Heinrich Zita
+- Heinrich von Zügel
+- Heinz Steiner
+- Henryk Uziembło
+- Herbert Schaffgotsch
+- Heribert Potuznik
+- Hermine Aichenegg
+- Hildegard Jone-Humplik
+- Hugo Baar
+- Imre Simay
+- Jacob Glasner
+- Jacob Low
+- Johann Nepomuk Geller
+- Johann Rathausky
+- Johanna Kampmann-Freund
+- Johannes Fischer
+- Josef Dobner
+- Josef Floch
+- Josef Heu
+- Josef Humplik
+- Josef Karl Rumpold
+- Josef Straka
+- Josef Tautenhayn
+- Josep Johann Beyer
+- Joseph Urban
+- Julius Paul Junghanns
+- Kark Ludwig Hassmann
+- Karl Alexander Wilke
+- Karl Hauk
+- Karl Huck
+- Karl Josef Gunsam
+- Karl Markus
+- Karl Mediz
+- Karl OLynch von Town
+- Karl OLynch and Alm Landschaft
+- Karl Pippich
+- Karl Stemolak
+- Kazimierz Sichulski
+- Konrad Widter
+- Leo Delitz
+- Leopold Blauensteiner
+- Leopold Burger
+- Leopold Gottlieb
+- Lilly Steiner
+- Lois Pregartbauer
+- Ludvík Kuba
+- Ludwig Heinrich Jungnickel
+- Ludwig von Zumbusch
+- Maria Fischer
+- Maximilian Kahrer
+- Maximilian Reinitz
+- Maximilian Suppantschitsch
+- Michael Powolny
+- Nora Purtscher-Wydenbruck
+- Oskar Felgel
+- Oskar Laske
+- Otto Bariedl
+- Otto Barth
+- Otto Bruenauer
+- Otto Hoffmann
+- Otto Rudolf Schatz
+- Paul Johann Ress
+- Peter Breithut
+- Raimund Germela
+- Raoul Frank
+- Richard Drasche-Wartinberg
+- Richard Lux
+- Robert Fink
+- Robert Kloss
+- Robert Kohl
+- Robert Oerley
+- Robert Pajer-Gartegen
+- Robert Phillipi
+- Robert Schiff
+- Robin Christian Andersen
+- Rolf Eugen Heger
+- Rudolf Buchner
+- Rudolf Fanner
+- Rudolf Junk
+- Rudolf Konopa
+- Rudolf Pointner
+- Rudolf Sieck
+- Rudolf Tropsch
+- Rudolph Bachmann
+- Sigmund Walter Hampel
+- Theodor Kern
+- Theodor Stundl
+- Theodore Fried
+- Thomas Dobner
+- Thomas Riss
+- Tibor Gergely
+- Viktor Echhardt von Eckardsburg
+- Viktor Planckh
+- Viktor Tischler
+- Wilhelm Hedger
+- Wilhelm Kaufmann
+- Wilhelm Klier
+- Wilhelm Wodnansky
+- Wunibald Deininger
+
+
