@@ -36,6 +36,8 @@ The first thing you have to do is install [this script](https://github.com/Anony
 4. Now add whatever prompt you want.  I used Dynamic Prompts to generate a bunch of quick ideas that I can expand on.
 ![mask prompt example](./images/mask-prompt-example.png "mask prompt example")
 5. Generate your images
+
+
 ![mask example output](./images/mask-output.png "mask example output")
 
 That's it.  I'll happily accept corrections or requests for other tutorials.
