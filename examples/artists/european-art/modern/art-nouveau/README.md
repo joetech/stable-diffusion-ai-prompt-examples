@@ -1,0 +1,193 @@
+# Artists / European Art / Modern / Art Nouveau
+
+![Artists / European Art / Modern / Art Nouveau Stable Diffusion prompt examples](montage.png 'Artists / European Art / Modern / Art Nouveau Stable Diffusion prompt examples')
+
+# Prompts used
+- Abel Pann
+- Adolf Michael Boehm
+- Adolfo Hohenstein
+- Adolphe Willette
+- Aladár Körösfői-Kriesch
+- Alexandre Benois
+- Alois Delug
+- Alois Hans Schram
+- Alphonse Mucha
+- Amelia Bauerle
+- Annie French
+- Anselmo Govi
+- Antonio Fabrés
+- Antonio Juez Nieto
+- Archibald Knox (designer)
+- Arnold Lyongrün
+- Arthur Frank Mathews
+- Austin Osman Spare
+- Bela Čikoš Sesija
+- Bronisława Janowska
+- Bror Geijer Göthe
+- Cesare Laurenti (painter)
+- Charles Rennie Mackintosh
+- Clara Weaver Parrish
+- Constant Detré
+- Duilio Cambellotti
+- Edith Soterius von Sachsenheim
+- Edvard Munch
+- Egon Schiele
+- Elenore Abbott
+- Eliseu Visconti
+- Emanuel Vidović
+- Emmi Walther
+- Ernst Linck
+- Erwin Puchinger
+- Erwin Stolz
+- Eugen Jettel
+- Fedir Krychevsky
+- Felician Myrbach
+- Fernand Toussaint
+- Fidus
+- Fidushaus
+- Francis Jourdain
+- Franz Stuck
+- Franz von Matsch
+- Friedrich König (painter)
+- Fritz Mackensen
+- Fujishima Takeji
+- Galileo Chini
+- Georges de Feure
+- Gerda Wegener
+- Giorgio Ceragioli (sculptor)
+- Gojmir Anton Kos
+- Gustav Hahn
+- Gustav Klimt
+- Hans Tichy
+- Hans Unger
+- Hede von Trapp
+- Henri Bellery-Desfontaines
+- Henri Thiriet
+- Henri de Toulouse-Lautrec
+- Henry van de Velde
+- Herbert MacNair
+- Ion Theodorescu-Sion
+- Ivan Milev
+- J. A. G. Acke
+- Jaak van Wijck
+- Jan Toorop
+- Jane Atché
+- Janis Rozentāls
+- Jean Crotti
+- Jean Dupas
+- Jean Rouppert
+- Jean de Bosschère
+- Jean-Edouard de Castella
+- Jens Lund
+- Johan Thorn Prikker
+- Johann Victor Krämer
+- John Duncan (painter)
+- Josef Maria Auchentaller
+- Jules Chéret
+- Julius Exter
+- Kamisaka Sekka
+- Karel Vítězslav Mašek
+- Konrad Mägi
+- Konstantin Korovin
+- Konstantin Somov
+- Konstanty Laszczka
+- Lascăr Vorel
+- Leo Putz
+- Lucien Lévy-Dhurmer
+- Ludwig Fahrenkrog
+- Ludwig von Hofmann
+- Ludwik Konarzewski
+- Léo Schnug
+- Léon Bakst
+- Marcel Janco
+- Marcello Dudovich
+- Margaret Macdonald Mackintosh
+- Maria Yakunchikova
+- Martin Battersby
+- Maurice Langaskens
+- Max Kurzweil
+- Maximilian Liebenwein
+- Mihail Simonidi
+- Mikalojus Konstantinas Čiurlionis
+- Mikhail Vrubel
+- Mirko Rački
+- Octavian Smigelschi
+- Olaf Lange
+- Oskar Zwintscher
+- Osmar Schindler
+- Otto Eckmann
+- Prince Eugen, Duke of Närke
+- Raphael Kirchner
+- Robert Burns (artist)
+- Robert Pötzelberger
+- Roberto Montenegro
+- Rudolf Otto von Ottenfeld
+- Sascha Schneider
+- Stefan Filipkiewicz
+- Sydney Long
+- Theo Nieuwenhuis
+- Thomas Theodor Heine
+- Théophile Steinlen
+- Tomislav Krizman
+- Valentin Držkovic
+- Victor Borisov-Musatov
+- Victor Prouvé
+- Viktor Oliva
+- Vojtěch Hynais
+- Vojtěch Preissig
+- Wacław Szymanowski
+- Wilhelm Bernatzik
+- Wilhelm Dachauer
+- William Brown Macdougall
+- Wojciech Weiss
+- Xavier Gosé
+- Yelena Polenova
+- Zeev Raban
+- Albert Benois
+- Alexandre Benois
+- Alexandre Jacovleff
+- Anna Ostroumova-Lebedeva
+- Arkady Rylov
+- Boris Kustodiev
+- Eugene Lanceray
+- Heorhiy Narbut
+- Igor Grabar
+- Ivan Bilibin
+- Jury Annenkov
+- Konstantin Bogaevsky
+- Konstantin Korovin
+- Konstantin Somov
+- Konstantin Yuon
+- Kuzma Petrov-Vodkin
+- Leon Bakst
+- Martiros Sarian
+- Mikhail Nesterov
+- Mikhail Vrubel
+- Mstislav Dobuzhinsky
+- Nicholas Roerich
+- Pyotr Konchalovsky
+- Serge Sudeikin
+- Sirak Skitnik
+- Vilhelms Purvitis
+- Yeghishe Tadevosyan
+- Zinaida Serebriakova
+- Alfred Roller
+- Bertold Löffler
+- Cuno Amiet
+- Egon Schiele
+- Fernand Khnopff
+- Franz Sedlacek
+- Gustav Klimt
+- Joseph Urbania
+- Józef Mehoffer
+- Koloman Moser
+- Max Kurzweil
+- Maximilian Pirner
+- Oskar Kokoschka
+- Richard Gerstl
+- Rudolf von Alt
+- Wojciech Weiss
+- Élisabeth Sonrel
+- Ștefan Luchian
+
+
