@@ -17,4 +17,4 @@ clear
 ./aigallery.sh "$sourceDir" "*$extension" "$promptBefore" "$promptAfter" 4 "$pageName" && mkdir -p $destDir && cp $sourceDir/montage.png $destDir && cp $sourceDir/README.md $destDir
 git add .
 git commit -am "Added gallery for $pageName"
-git push
+open $destDir/montage.png
